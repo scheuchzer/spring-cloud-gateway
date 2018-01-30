@@ -15,8 +15,7 @@
  *
  */
 
-package org.springframework.cloud.gateway.handler.predicate
-		;
+package org.springframework.cloud.gateway.handler.predicate;
 
 import java.util.Arrays;
 import java.util.List;
